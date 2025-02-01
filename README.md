@@ -1,7 +1,7 @@
 **ChatBot** is a chatbot application built with **Angular** for the frontend and **Flask** for the backend, leveraging the **OpenAI API** for generating responses.  
 
 ### **Tools and Technologies Used**  
-
+ 
 #### **1. Frontend (Angular)**
 - **Angular (TypeScript Framework)**  
   - **Purpose**: Provides a structured, scalable, and responsive UI for the chatbot.  
